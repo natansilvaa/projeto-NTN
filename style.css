@@ -17,16 +17,6 @@ main{
     width: 100vw;
 }
 
-header{
-   position: relative;
-   top: 50%;
-   left: 50%;
-   width: 260px;
-   background-color: white;
-   transform: translate(-50%, -50%);
-   height: 300px;
-}
-
 
 
 h1> img{
@@ -38,12 +28,15 @@ h1> img{
 
 }
 
+header{
+    background-color: white;
+}
 .pesquisa{
    transform: translateY(-13px);
     margin: 0px;
 }
 input{
-    width: 79%;
+    width: 85%;
     padding:5px;
     margin: -10px 0px -20px 10px;
     border-radius: 20px;
@@ -81,13 +74,14 @@ span{
 li{
  list-style: none;
 }
-article> div.imagem{
+
+ div.imagem{
     background-color: rgb(190, 186, 186);
     height: 30%;
     flex-flow: row wrap;
     display: flex;
 }
-article> div.imagem> img{
+ div.imagem> img{
     width: 60px;
     margin: 15px 0px;
     padding:0px;
@@ -98,6 +92,6 @@ article> div.imagem> img{
 
 
 article{
-    background-color: orange;
+    background-color: rgb(160, 119, 43);
     height: 100%;
 }
