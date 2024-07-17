@@ -56,6 +56,8 @@ span{
 #menu-h{
     flex-flow: row wrap;
     display: flex;
+    justify-content: space-evenly;
+    
 }
 
 #menu-h > li > a{
@@ -80,6 +82,7 @@ li{
     height: 30%;
     flex-flow: row wrap;
     display: flex;
+    justify-content: space-evenly;
 }
  div.imagem> img{
     width: 60px;
