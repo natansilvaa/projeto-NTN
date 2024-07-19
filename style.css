@@ -43,8 +43,23 @@ input{
     border: 1px solid black;
     
 }
+.iburguer{
+   
+   width: 60px;
+   height: 60px;
+   display: flex;
+   float: right;
+   flex-flow: row nowrap;
+   justify-content: center;
+   align-items: center;
+   margin: -95px 30px ;
+   
+}
+#burguer{
+    font-size: 3em;
 
-span{
+}
+#pesquisa{
     background-color: rgb(210, 91, 39);
     padding: 2px;
     color: white;
@@ -53,15 +68,16 @@ span{
     
 }
 
-#menu-h{
-    flex-flow: row wrap;
-    display: flex;
-    justify-content: space-evenly;
-    
-    
+menu{
+   display: none;
+}
+ menu#itens > ul{
+    list-style: none;
+   
+
 }
 
-#menu-h > li > a{
+menu > ul > li > a{
     display: block;
     background-color: aliceblue;
     padding: 2px;
