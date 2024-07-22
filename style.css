@@ -116,3 +116,17 @@ article{
     background-color: rgb(160, 119, 43);
     height: 100%;
 }
+
+.elementos{
+    display: flex;
+    overflow-x: scroll;
+    padding: 10px;
+    margin: 0px 4px 0px 4px;
+    
+}
+.elementos > img{
+
+    width: 100px;
+    background-color: white;
+    padding: 1px;
+}
