@@ -115,7 +115,7 @@ li{
 
 
 article{
-    background-color: rgb(160, 119, 43);
+    background-color: rgb(175, 136, 63);
     height: 100%;
 }
 
@@ -124,10 +124,10 @@ article{
     overflow-x: scroll;
     padding: 10px;
     margin: 0px 4px 0px 4px;
+    width: 93%;
     
 }
 .elementos > img{
-
     width: 100px;
     background-color: white;
     padding: 1px;
