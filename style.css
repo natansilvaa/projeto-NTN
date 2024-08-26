@@ -37,7 +37,7 @@ header{
 }
 input{
     width: 75%;
-    padding:10px;
+    padding:5px;
     margin: 0px 10px 0px 20px;
     border-radius: 20px;
     border: 1px solid black;
@@ -127,7 +127,7 @@ article{
     
 }
 .elementos-portas > img{
-    width: 140px;
+    width: 250px;
     background-color: white;
     padding: 1px;
     margin: 1px;
@@ -145,7 +145,7 @@ article{
     
 }
 .elementos-portoes> img{
-    width: 140px;
+    width: 250px;
     background-color: white;
     padding: 1px;
     margin: 1px;
@@ -162,7 +162,7 @@ article{
     
 }
 .elementos > img{
-    width: 140px;
+    width: 250px;
     background-color: white;
     padding: 1px;
    
