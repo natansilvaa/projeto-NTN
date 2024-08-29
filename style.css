@@ -112,25 +112,28 @@ li{
 
 
 article{
-    background-color: rgb(175, 136, 63);
+    background-color: rgb(184, 157, 107);
     height: 100ve;
     width: 100vw;
 }
 
+.todas-img{
+    /* background-color: blue; */
+    
+}
 .elementos-portas{
     display: flex;
     overflow-x: scroll;
     padding: 10px;
-    margin: 0px 4px 0px 4px;
+    margin: 0px 30px 0px 30px;
     width: 93%;
-    ;
-    
+    border: 1px solid black; 
 }
 .elementos-portas > img{
-    width: 250px;
+    width: 180px;
     background-color: white;
-    padding: 1px;
-    margin: 1px;
+    padding: 50px;
+    margin: 30px;
    
     
 }
@@ -147,8 +150,8 @@ article{
 .elementos-portoes> img{
     width: 250px;
     background-color: white;
-    padding: 1px;
-    margin: 1px;
+    padding: 50px;
+    margin: 30px;
    
     
 }
@@ -164,7 +167,8 @@ article{
 .elementos > img{
     width: 250px;
     background-color: white;
-    padding: 1px;
+    padding: 50px;
+    margin: 30px;
    
     
 }
