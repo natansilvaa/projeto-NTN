@@ -40,7 +40,11 @@ input{
     padding:5px;
     margin: 0px 10px 0px 20px;
     border-radius: 20px;
-    border: 1px solid black;
+    border: 2px solid rgba(0, 0, 0, 0.712);
+    
+}
+
+input:hover{
     
 }
 .iburguer{
