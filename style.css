@@ -149,7 +149,7 @@ article{
 }
 .elementos-portoes> img{
     width: 200px;
-    background-image: linear-gradient(rgba(128, 122, 111, 0.267), rgb(90, 48, 48));
+    background-image: linear-gradient(rgba(128, 122, 111, 0.267), rgba(255, 255, 255, 0.308));
     padding: 50px;
     margin: 10px;
    border-radius: 10px;
@@ -166,7 +166,8 @@ article{
 }
 .elementos > img{
     width: 200px;
-    background-image: linear-gradient(rgba(223, 212, 193, 0.267), rgb(90, 48, 48));
+    /* background-image: linear-gradient(rgba(223, 212, 193, 0.267), rgb(90, 48, 48)); */
+    background-image: linear-gradient(rgba(128, 122, 111, 0.267), rgba(255, 255, 255, 0.308));
     padding: 20px;
     border-radius: 10px;
     margin: 10px;
