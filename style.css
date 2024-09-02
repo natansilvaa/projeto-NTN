@@ -77,7 +77,8 @@ menu{
 
 menu > ul > li > a{
     display: block;
-    background-color: rgba(0, 0, 0, 0.418);
+   background-color: rgba(0, 0, 0, 0.479);
+
     color: black;
     padding: 2px;
     margin: 5px;
@@ -112,7 +113,7 @@ li{
 
 
 article{
-    background-color: rgb(184, 157, 107);
+    background-color: rgba(71, 64, 64, 0.342);
     height: 100ve;
     width: 100vw;
 }
@@ -122,17 +123,17 @@ article{
     display: flex;
     overflow-x: scroll;
     padding: 10px;
-    margin: 0px 30px 0px 30px;
-    width: 93%;
+    margin: 0px 4px 0px 4px;
+    /* width: 93%; */
    
 }
 .elementos-portas > img{
-    width: 180px;
-    background-color: rgb(255, 255, 255);
+    width: 150px;
+    background-image: linear-gradient(rgba(128, 122, 111, 0.267), rgb(90, 48, 48));
     padding: 50px;
     margin: 30px;
-   
-    
+   border-radius: 10px;
+    box-shadow: 1px 0px 10px rgba(0, 0, 0, 0.473);
 }
 
 .elementos-portoes{
@@ -140,32 +141,33 @@ article{
     overflow-x: scroll;
     padding: 10px;
     margin: 0px 4px 0px 4px;
-    width: 93%;
+    /* width: 93%; */
     
     
 }
 .elementos-portoes> img{
-    width: 250px;
-    background-color: white;
+    width: 200px;
+    background-image: linear-gradient(rgba(128, 122, 111, 0.267), rgb(90, 48, 48));
     padding: 50px;
     margin: 30px;
-   
-    
+   border-radius: 10px;
+   box-shadow: 1px 0px 5px rgba(0, 0, 0, 0.473);
 }
 .elementos{
     display: flex;
     overflow-x: scroll;
     padding: 10px;
     margin: 0px 4px 0px 4px;
-    width: 93%;
+    /* width: 93%; */
     
     
 }
 .elementos > img{
-    width: 250px;
-    background-color: white;
-    
+    width: 200px;
+    background-image: linear-gradient(rgba(223, 212, 193, 0.267), rgb(90, 48, 48));
+    padding: 20px;
+    border-radius: 10px;
     margin: 30px;
-   
+    box-shadow: 1px 0px 5px rgba(0, 0, 0, 0.473);
     
 }
