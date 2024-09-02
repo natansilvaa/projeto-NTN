@@ -44,9 +44,7 @@ input{
     
 }
 
-input:hover{
-    
-}
+
 .iburguer{
    
    width: 60px;
@@ -135,7 +133,7 @@ article{
     width: 150px;
     background-image: linear-gradient(rgba(128, 122, 111, 0.267), rgb(90, 48, 48));
     padding: 50px;
-    margin: 30px;
+    margin: 10px;
    border-radius: 10px;
     box-shadow: 1px 0px 10px rgba(0, 0, 0, 0.473);
 }
@@ -153,7 +151,7 @@ article{
     width: 200px;
     background-image: linear-gradient(rgba(128, 122, 111, 0.267), rgb(90, 48, 48));
     padding: 50px;
-    margin: 30px;
+    margin: 10px;
    border-radius: 10px;
    box-shadow: 1px 0px 5px rgba(0, 0, 0, 0.473);
 }
@@ -171,7 +169,7 @@ article{
     background-image: linear-gradient(rgba(223, 212, 193, 0.267), rgb(90, 48, 48));
     padding: 20px;
     border-radius: 10px;
-    margin: 30px;
+    margin: 10px;
     box-shadow: 1px 0px 5px rgba(0, 0, 0, 0.473);
     
 }
